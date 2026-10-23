@@ -58,6 +58,27 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "intro-to-functions",
+      "title": "Intro to Functions",
+      "description": "Learn to write and call functions in Python",
+      "path": "assignments/intro-to-functions",
+      "dueDate": "2026-10-30"
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a simple FastAPI application with CRUD routes, validation, and JSON responses",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-10-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
