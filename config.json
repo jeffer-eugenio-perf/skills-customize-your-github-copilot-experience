@@ -79,6 +79,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "working-with-files-and-json",
+      "title": "Working with Files and JSON",
+      "description": "Read, write, and update structured data from a JSON file using Python",
+      "path": "assignments/working-with-files-and-json",
+      "dueDate": "2026-10-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
